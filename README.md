@@ -68,16 +68,24 @@ Follow these steps to set up and run the Malicious Webpage Detector locally:
  Try These URLs
 Safe URLs:
   https://www.wikipedia.org
+  
   https://www.google.com
+  
   https://www.github.com
+  
   https://www.microsoft.com
+  
   https://www.python.org
 
 Malicious URLs:
   http://malicious-login-now.com
+  
   http://192.168.0.1/login
+  
   http://free-prizes.biz/claim
+  
   http://secure-banking-alert.net
+  
   http://clickme-fast-download.ru
 
 Contributing
