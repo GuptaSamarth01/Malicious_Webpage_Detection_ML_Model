@@ -95,8 +95,11 @@ Contributing
 Feel free to fork the repo, raise issues, or submit PRs to:
   
 ->  Add new feature sets
+
 ->  Improve model accuracy
+
 ->  Expand dataset
+
 ->  Deploy with Docker or cloud
 
 
